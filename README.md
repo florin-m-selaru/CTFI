@@ -10,7 +10,7 @@ Plain HTML and CSS. No build step and no dependencies.
 - `.nojekyll`: tells GitHub Pages to serve every file as-is
   (hidden on Windows unless "Hidden items" is on in File Explorer)
 - `README.md`: this file
-- `Pictures/`: the 29 `.jpg` images the pages use. Any other file in
+- `Pictures/`: the 31 `.jpg` images the pages use. Any other file in
   Pictures (original covers, PDFs, GIFs, names with spaces) is not used by
   the site and should not be uploaded.
 
