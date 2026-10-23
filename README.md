@@ -5,7 +5,8 @@ Plain HTML and CSS. No build step and no dependencies.
 
 ## What to upload to GitHub (and nothing else)
 - `index.html`, `approach.html`, `research.html`, `resources.html`,
-  `people.html`, `gallery.html`, `contact.html`: the pages
+  `people.html`, `publications.html`, `news.html`, `gallery.html`,
+  `contact.html`: the pages
 - `styles.css`: the shared stylesheet
 - `.nojekyll`: tells GitHub Pages to serve every file as-is
   (hidden on Windows unless "Hidden items" is on in File Explorer)
